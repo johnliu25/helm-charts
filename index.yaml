@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  kserve-crd:
+  - apiVersion: v1
+    created: "2024-10-04T12:32:04.309034-07:00"
+    description: Helm chart for deploying kserve crds
+    digest: 20318ecfdcbc9af1aa4454936bf7ec208b294b0cb6e43f7f55869ec6712e03b2
+    keywords:
+    - kserve
+    - modelmesh
+    name: kserve-crd
+    sources:
+    - http://github.com/kserve/kserve
+    urls:
+    - https://johnliu25.github.io/helm-charts/kserve-crd-v0.13.0.tgz
+    version: v0.13.0
+generated: "2024-10-04T12:32:04.304862-07:00"
